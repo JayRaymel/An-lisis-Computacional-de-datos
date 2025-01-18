@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 
 # Cargar datos desde un archivo CSV
-df = pd.read_csv("data.csv")  
+df = pd.read_csv("ventas.csv")
 
 # Vista inicial de los datos
 print("Vista inicial de los datos:")
